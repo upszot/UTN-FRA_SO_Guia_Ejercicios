@@ -18,7 +18,7 @@
 
 
 <details>
-    <summary  style="color:red;">&emsp; <Mostrar/Ocultar> - <b>!!! Spoiler Alert !!!</b>  ...Pistas...</summary>
+    <summary>&emsp; <Mostrar/Ocultar> - <b><span style="color:red">!!! Spoiler Alert !!!</span></b>  ...Pistas...</summary>
     <div style="padding-left: 20px; font-style: italic;">
         Los siguientes Archivos y Comandos estan relacionados con la resolucion de los Ejercicios:
         <div style="padding-left: 20px;">
