@@ -18,16 +18,14 @@
 
 
 <details>
-    <summary>&emsp; <Mostrar/Ocultar> - <b><span style="color:red">!!! Spoiler Alert !!!</span></b>  ...Pistas...</summary>
-    <div style="padding-left: 20px; font-style: italic;">
-        Los siguientes Archivos y Comandos estan relacionados con la resolucion de los Ejercicios:
-        <div style="padding-left: 20px;">
-            <u1>
-                <li>Archivos: `/proc/cpuinfo`  </br></li>
-                <li>Comandos: `hostnamectl`, `hostname`, `echo`, `whoami`, `pwd` </br></li>
-                <li>Variables de Entorno: `$PWD` , `$USER` </br></li>
-            </u1> 
-        </div>
-        Siempre es preferible la ejecucion de un comando, por sobre la obtencion del dato sobre una variable de entorno. </br>
+    <summary>&emsp; <Mostrar/Ocultar> - <b>!!! Spoiler Alert !!!</b>  ...Pistas...</summary>
+    <div>
+        Los siguientes Archivos y Comandos están relacionados con la resolución de los Ejercicios:
+        <ul style="padding-left: 20px; font-style: italic;">
+            <li>Archivos: `/proc/cpuinfo`</li>
+            <li>Comandos: `hostnamectl`, `hostname`, `echo`, `whoami`, `pwd`</li>
+            <li>Variables de Entorno: `$PWD`, `$USER`</li>
+        </ul>
+        Siempre es preferible la ejecución de un comando, por sobre la obtención del dato sobre una variable de entorno.
     </div>
 </details>
