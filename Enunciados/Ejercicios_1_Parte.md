@@ -29,3 +29,4 @@
         Siempre es preferible la ejecución de un comando, por sobre la obtención del dato sobre una variable de entorno.
     </div>
 </details>
+
