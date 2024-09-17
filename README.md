@@ -11,7 +11,7 @@
 
 
 
-- [ ] **Primera Parte:**
+- [ ] **Primera Parte (Comandos Basicos):**
     - [ ] Practicaremos:
         - Conceptos de Paths Absolutos y Relativos
         - Jerarquia de Directorios Linux
@@ -43,6 +43,36 @@
             <div>
                 <table>
                     <td> <a href="./Resoluciones/1.md">Ver la Resolucion</a></td>
+                </table>
+            </div>
+        </details>
+
+- [ ] **Segunda Parte (Gestion de Usuarios y  Grupos):**
+    - [ ] Practicaremos:
+        - Creacion / Modificacion / Eliminacion de Usuarios
+        - Creacion / Modificacion / Eliminacion de Grupos
+        - Validacion de los mismos
+        - Generacion de un usuario Con la clave de otro
+        - Seteo de clave
+        - Logeo con los usuarios nuevos.
+
+    - [ ] Ejercicio 1:
+        - 
+
+    - [ ] Ejercicio 2:
+        - 
+
+
+        > Los siguientes Archivos y Comandos estan relacionados con la resolucion de los Ejercicios:
+        >  - Archivos`/etc/passwd`, `/etc/group`, `/etc/shadow`  </br>
+        >  - Comandos `useradd`, `groupadd`, `usermod` </br>
+
+    - [ ] Resolucion de Ejercicios "Segunda Parte":
+        <details>
+            <summary>&emsp; <Mostrar/Ocultar> - Resolucion Gestion de Usuarios y Grupos</summary>
+            <div>
+                <table>
+                    <td> <a href="./Resoluciones/2.md">Ver la Resolucion</a></td>
                 </table>
             </div>
         </details>
