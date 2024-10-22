@@ -51,4 +51,54 @@
         </div>
     </details>
 
+## **Filtrado de Datos:**
+- [ ] Practicaremos:
+    - grep | awk 
+
+- [ ] [Ejercicios](./Enunciados/Ejercicios_3_Parte.md)
+    
+    <details>
+        <summary>&emsp; <Mostrar/Ocultar> - <b>Resolucion de Ejercicios:<b></summary>
+        <div>
+            <table>
+                <td> <a href="./Resoluciones/Resolucion_3_Parte.md">Ver la Resolucion</a></td>
+            </table>
+        </div>
+    </details>
+
+## **Bash Scripting:**
+- [ ] Practicaremos:
+    - bash-scripting
+    - creacion de usuario filtrando datos de otro usuario
+
+- [ ] [Ejercicios](./Enunciados/Ejercicios_4_Parte.md)
+    
+    <details>
+        <summary>&emsp; <Mostrar/Ocultar> - <b>Resolucion de Ejercicios:<b></summary>
+        <div>
+            <table>
+                <td> <a href="./Resoluciones/Resolucion_4_Parte.md">Ver la Resolucion</a></td>
+            </table>
+        </div>
+    </details>
+
+## **LVM:**
+- [ ] Practicaremos:
+    - LVM
+    - creacion de PV,VG,LV
+    - Expancion de LV y FS
+    - Deteccion de errores
+    - montaje de fs y swap
+
+- [ ] [Ejercicios](./Enunciados/Ejercicios_5_Parte.md)
+    
+    <details>
+        <summary>&emsp; <Mostrar/Ocultar> - <b>Resolucion de Ejercicios:<b></summary>
+        <div>
+            <table>
+                <td> <a href="./Resoluciones/Resolucion_5_Parte.md">Ver la Resolucion</a></td>
+            </table>
+        </div>
+    </details>
+
 

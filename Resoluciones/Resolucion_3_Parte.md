@@ -1,0 +1,2 @@
+# Resolucion -> Filtrado de Datos:
+
