@@ -3,6 +3,7 @@
 - [ ] Ejercicio 1:
     - Agregar 2 Discos (1G ,  3G  )
     -  Crear la estructura de directorios para los puntos de montaje con 1 solo comando
+    - Todos los montajes deben ser persistentes.
     - Crear los VG `vg_multimedia` `VG_datos`
     - Crear los siguientes LV dentro del VG anterior.
 
